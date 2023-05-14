@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-image: url(r3.avif);
+    background-image: url(./assets/r3.avif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
